@@ -1,0 +1,14 @@
+{
+  "name": "spacex-exercise",
+  "version": "0.0.1",
+  "description": "A web server to display SSC data from NASAs API.",
+  "main": "server.js",
+  "repository": "",
+  "author": "Josh Ferrara <scjosh2@gmail.com>",
+  "dependencies": {
+    "express": "~3.2.4",
+    "request": "^2.53.0",
+    "socket.io": "~0.9.14",
+    "xml2js": "^0.4.5"
+  }
+}
